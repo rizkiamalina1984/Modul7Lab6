@@ -1,6 +1,7 @@
 package com.example.bismillah
 
 import android.database.Cursor
+import com.example.bismimillah.Homework
 
 object MappingHelper {
 
